@@ -1,4 +1,0 @@
-## POC
-
-Axa-assistance ES
-
